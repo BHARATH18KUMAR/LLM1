@@ -7,9 +7,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "LLM-TEXT-DETECTION"
-AUTHOR_USER_NAME = "Harshithvarma007"
+AUTHOR_USER_NAME = "BHARATH KUMAR 0310"
 SRC_REPO = "LLM_text_detection"
-AUTHOR_EMAIL = "harshith007varma007@gmail.com"
+AUTHOR_EMAIL = "bharath011005@gmail.com"
 
 
 setuptools.setup(
